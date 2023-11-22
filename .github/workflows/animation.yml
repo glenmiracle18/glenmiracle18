@@ -8,6 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      USING: 'node20'
+      PRE: 'setup.js'
+      MAIN: 'index.js'
+      POST: 'cleanup.js'
 
     steps:
       - name: Checkout Repository
