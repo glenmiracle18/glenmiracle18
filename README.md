@@ -1,6 +1,7 @@
 # 💫 About Me:
 <br><br>    🔭 I’m currently working on [Digital Assest Marketplace](still pending)<br><br>    🌱 I’m currently learning NextJs14, React, swift and tyepscript<br><br>    👯 I’m looking to collaborate on [opensource projects](still pending)<br><br>    🤝 I’m looking for help with containerization(docker)<br><br>    👨‍💻 All of my projects are available at [still pending](still pending)<br><br>    📝 I regularly write articles on meduim.com<br><br>    💬 Ask me about react, html, css, nextjs, python and more<br><br>    📫 How to reach me m.bonyu@alustudent.com<br><br>    ⚡ Fun fact I once learned how to juggle, not just tasks, but actual juggling with balls!<br>
 
+![Snake animation](https://github.com/glenmiracle18/glenmircle18/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/glenuncommon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Glen miracle) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/glenmiracle) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/glenmiracle) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/glenmiracle18) 
